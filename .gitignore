@@ -1,0 +1,17 @@
+target
+*.iws
+*.ipr
+*.iml
+.settings
+.metadata
+.idea
+bin
+.DS_Store
+.pmd
+*.jsfdia
+*.factorypath
+.gwt
+*log
+**/war
+**/gwt-unitCache
+
